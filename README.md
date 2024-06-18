@@ -67,8 +67,8 @@
 <br/>
 <br/>
 <br/>
-<div align="center">
+<!-- <div align="center">
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer">
-</div>
+</div> -->
 
 
