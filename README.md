@@ -53,7 +53,7 @@
 	<div>
 <!-- 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunii2222&layout=compact"><br><br>
 		<img src="https://github-readme-stats.vercel.app/api?username=yunii2222&show_icons=true"> -->
-		<img src="https://github-readme-stats.vercel.app/api?username=yunii2222&show_icons=true&theme=dracula">
+<!-- 		<img src="https://github-readme-stats.vercel.app/api?username=yunii2222&show_icons=true&theme=dracula"> -->
 		<img src="https://github-readme-stats.vercel.app/api?username=yunii2222&show_icons=true&theme=cobalt">
 	</div>
 </div>
