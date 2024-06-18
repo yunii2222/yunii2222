@@ -50,12 +50,13 @@
 </div>
 <br/>
 <br/>
+<br/>
 <div align="center">
 	<div>
 <!-- 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yunii2222&layout=compact"><br><br>
 		<img src="https://github-readme-stats.vercel.app/api?username=yunii2222&show_icons=true"> -->
 <!-- 		<img src="https://github-readme-stats.vercel.app/api?username=yunii2222&show_icons=true&theme=dracula"> -->
-		<img src="https://github-readme-stats.vercel.app/api?username=yunii2222&show_icons=true&theme=cobalt" width="800" height="300">
+		<img src="https://github-readme-stats.vercel.app/api?username=yunii2222&show_icons=true&theme=cobalt" width="700" height="300">
 	</div>
 </div>
 
