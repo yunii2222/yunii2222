@@ -60,7 +60,8 @@
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=solarized-light">
 	</div>
 </div>
-
+<br/>
+<br/>
 <div align="center">
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer">
 </div>
