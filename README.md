@@ -89,7 +89,7 @@
 	<h3> ⌛️ Stats ⌛️ </h2> 
 </div>
 <div align="center">
-    <div style="width: 80%; display: flex; flex-direction: column; align-items: center;">
+    <div style="width: 900px; display: flex; flex-direction: column; align-items: center;">
         <div style="display: flex; justify-content: space-between; width: 100%;">
             <img src="https://github-readme-stats.vercel.app/api?username=yunii2222&show_icons=true&theme=solarized-light" alt="GitHub Stats" style="width: 49%; height: 200px;">
             <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=solarized-light" alt="Top Languages" style="width: 49%; height: 200px;">
@@ -99,6 +99,7 @@
         </div>
     </div>
 </div>
+
 
 <br/>
 <br/>
