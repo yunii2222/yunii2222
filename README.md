@@ -91,8 +91,8 @@
 <div align="center">
     <div style="width: 900px; display: flex; flex-direction: column; align-items: center;">
         <div style="display: flex; justify-content: space-between; width: 100%;">
-            <img src="https://github-readme-stats.vercel.app/api?username=yunii2222&show_icons=true&theme=solarized-light" alt="GitHub Stats" style="width: 49%; height: 200px;">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=solarized-light" alt="Top Languages" style="width: 49%; height: 200px;">
+            <img src="https://github-readme-stats.vercel.app/api?username=yunii2222&show_icons=true&theme=solarized-light" alt="GitHub Stats" height: 200px;">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=solarized-light" alt="Top Languages"height: 200px;">
         </div>
         <div style="width: 100%; margin-top: 10px;">
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yunii2222&theme=solarized" alt="Profile Summary" style="width: 100%; height: 200px;">
