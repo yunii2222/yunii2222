@@ -7,7 +7,7 @@
 </div>
 <br/>
 <div align="center">
-	<h3>✨ Platrforms & Languages ✨</h2> 
+	<h3>✨ Platforms & Languages ✨</h2> 
 </div>
 <div align="center">
 	<div>
