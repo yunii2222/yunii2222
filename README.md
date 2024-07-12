@@ -89,7 +89,7 @@
 	<h3> ⌛️ Stats ⌛️ </h2> 
 </div>
 <div align="center">
-	<div>
+	<div style="display: inline-block;">
 		<img src="https://github-readme-stats.vercel.app/api?username=yunii2222&show_icons=true&theme=solarized-light" height="200" alt="GitHub Stats">
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=solarized-light" alt="Top Languages">
 		<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yunii2222&theme=solarized" alt="Profile Summary">
