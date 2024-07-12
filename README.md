@@ -90,9 +90,9 @@
 </div>
 <div align="center">
 	<div style="width: 80%; display: inline-block;">
-		<img src="https://github-readme-stats.vercel.app/api?username=yunii2222&show_icons=true&theme=solarized-light" alt="GitHub Stats">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=solarized-light" alt="Top Languages">
-		<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yunii2222&theme=solarized" alt="Profile Summary">
+		<img src="https://github-readme-stats.vercel.app/api?username=yunii2222&show_icons=true&theme=solarized-light" alt="GitHub Stats" style="width: 100%; height: 200px;">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=solarized-light" alt="Top Languages" style="width: 100%; height: 200px;">
+		<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yunii2222&theme=solarized" alt="Profile Summary" style="width: 100%; height: 200px;">
 	</div>
 </div>
 <br/>
