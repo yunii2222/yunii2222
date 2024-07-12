@@ -30,7 +30,6 @@
         <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white" />
         <img alt="Vue.js" src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=Vue.js&logoColor=white" />
         <img alt="Redux.js" src="https://img.shields.io/badge/Redux.js-764ABC?style=for-the-badge&logo=Redux&logoColor=white" />
-        <img alt="php.js" src="https://img.shields.io/badge/php.js-777BB4?style=for-the-badge&logo=php&logoColor=white" />
       </td>
     </tr>
     <tr>
