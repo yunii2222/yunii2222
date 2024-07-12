@@ -84,7 +84,6 @@
 <br/>
 <br/>
 <br/>
-<br/>
 <div align="center">
 	<h3> ⌛️ Stats ⌛️ </h2> 
 </div>
@@ -96,7 +95,9 @@
         </div>
     </div>
 </div>
-
+<br/>
+<br/>
+<br/>
 <div align="center">
 	<h3> contribution </h3>  
 </div>
