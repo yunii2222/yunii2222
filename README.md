@@ -6,7 +6,7 @@
 	<h2>📚 Tech Stack 📚</h2> 
 </div>
 
-## 💻 개발 환경
+<h3> ✨ 개발 환경 ✨ </h3>
 <table>
   <tbody>
     <tr>
@@ -87,7 +87,7 @@
 
 <br/>
 <div align="center">
-	<h3>✨ Platforms & Languages ✨</h2> 
+	<h3> Platforms & Languages ✨</h2> 
 </div>
 <div align="center">
 	<div>
