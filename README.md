@@ -47,6 +47,7 @@
       <td>
         <img alt="MySQL" src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
         <img alt="Redis" src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+	<img src="https://img.shields.io/badge/Mssql-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white"/>
       </td>
     </tr>
     <tr>
