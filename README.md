@@ -92,7 +92,7 @@
 <br/>
 <br/>
 <br/>
-<div align="center">
+/* <div align="center">
 	<h3> ⌛️ Stats ⌛️ </h2> 
 </div>
 <div align="center">
@@ -105,7 +105,7 @@
 </div>
 <br/>
 <br/>
-<br/>
+<br/> */
 <div align="center">
 	<h3> 👩🏻‍💻 contribution 👩🏻‍💻 </h3>  
 </div>
