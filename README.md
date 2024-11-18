@@ -5,7 +5,8 @@
 <a href="https://github.com/devxb/gitanimals">
 <img
   src="https://render.gitanimals.org/farms/yunii2222"
-  width="1000"
+  width="100%"
+  max-width="1000px"
   height="300"
 />
 </a>
