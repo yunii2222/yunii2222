@@ -4,7 +4,7 @@
 
 <a href="https://github.com/devxb/gitanimals">
   <div width="1000" height="300">
-	  <img src="https://render.gitanimals.org/farms/{yunii2222}"/>
+	  <img whidth="100%" src="https://render.gitanimals.org/farms/{yunii2222}"/>
   </div>
 </a>
 
@@ -92,7 +92,7 @@
 <br/>
 <br/>
 <br/>
-/* <div align="center">
+<!-- <div align="center">
 	<h3> ⌛️ Stats ⌛️ </h2> 
 </div>
 <div align="center">
@@ -105,7 +105,7 @@
 </div>
 <br/>
 <br/>
-<br/> */
+<br/> -->
 <div align="center">
 	<h3> 👩🏻‍💻 contribution 👩🏻‍💻 </h3>  
 </div>
