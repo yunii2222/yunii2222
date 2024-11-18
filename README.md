@@ -3,7 +3,9 @@
 </p>
 
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/farms/{yunii2222}"/>
+  <div width="1000" height="300">
+	  <img src="https://render.gitanimals.org/farms/{yunii2222}"/>
+  </div>
 </a>
 
 <div align="center">
