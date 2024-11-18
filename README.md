@@ -2,6 +2,10 @@
     <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=230&section=header&text=Yunii%20GitHub!👋🏻&fontSize=70&animation=fadeIn&fontAlignY=38&desc=&descAlignY=51&descAlign=62"/>
 </p>
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/{yunii2222}?pet-id=1" width="1000" height="120"/>
+</a>
+
 <div align="center">
 	<h2>📚 Tech Stack 📚</h2> 
 </div>
