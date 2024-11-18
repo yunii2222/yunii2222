@@ -4,7 +4,7 @@
 
 <a href="https://github.com/devxb/gitanimals">
   <div width="1000" height="300">
-	  <img whidth="100%" src="https://render.gitanimals.org/farms/{yunii2222}"/>
+	  <img width="1000" height="300" src="https://render.gitanimals.org/farms/{yunii2222}"/>
   </div>
 </a>
 
